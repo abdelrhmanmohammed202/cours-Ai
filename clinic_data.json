@@ -1,0 +1,21 @@
+{
+  "patients": [
+    {
+      "id": "38eb5025-f9a4-4e98-b3d0-2d51657e5d0a",
+      "full_name": "abdelrhman",
+      "age": "20",
+      "phone": "01030178885",
+      "gender": "Male",
+      "notes": "damge"
+    },
+    {
+      "id": "e4e90115-913e-48dd-8bc6-81c9c4b61a32",
+      "full_name": "ahmed",
+      "age": "12",
+      "phone": "01081888055",
+      "gender": "Male",
+      "notes": "stack"
+    }
+  ],
+  "appointments": []
+}
